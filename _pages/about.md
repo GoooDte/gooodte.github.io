@@ -40,12 +40,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 [**Project Page**](https://github.com/zjunlp/KnowSelf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A data-centric approach that applies agents with knowledgeable self-awareness like humans.
-
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/KnowSelf)](https://github.com/zjunlp/KnowSelf) 🌟
-  
-  </div>
-  
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/worfbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
