@@ -23,6 +23,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
+- I will be conducting a one-year academic visit to Professor [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)'s research group at University College London in the UK this September!
 - *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore!
 - *2024.12*: Our survey paper on [MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) has been released!
@@ -142,7 +143,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - *2018.09 - 2022.06*, Undergraduate Student, Beihang University.
 
 # 💬 Invited Talks
-- *2025.06,* Knowledgeable Agents: Problems, Methods, and Applications. BAAI 7th Conference InnoVibe Co-creation Seminar.
+- *2025.06,* Knowledgeable Agents: Problems, Methods, and Applications. BAAI 7th Conference InnoVibe Lightning Talk.
 - *2024.11*, Knowledge-Augmented Large Language Model Agent Planning. SMP2024 PhD Seminar.
 - *2023.11*, From Chain-of-Thought to LLM Powered Autonomous Agents. MLNLP. [Slides](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf).
 
@@ -152,6 +153,6 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # ✍️ Academic Service
 - Conference Reviewer: ICLR, NeurIPS, ACL ARR, ACMMM.
-- Conference Volunteer: ISWC 2023.
+- Conference Volunteer: ISWC 2023, ACL 2025.
 
 <a href="https://info.flagcounter.com/UsPL"><img src="https://s01.flagcounter.com/count/UsPL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
