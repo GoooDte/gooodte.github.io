@@ -23,7 +23,8 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
-- I will be conducting a one-year academic visit to Professor [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)'s research group at University College London in the UK this September!
+- *2025.07* I have been successfully selected for the 2025 CIE-Tencent Doctoral Research Incentive Program. Thanks for the support from CIE and Tencent!
+- *2025.06* I will be conducting a one-year academic visit to Professor [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)'s research group at University College London in the UK this September!
 - *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore!
 - *2024.12*: Our survey paper on [MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) has been released!
@@ -132,6 +133,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # 🎖 Honors and Awards
 
+- *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划)
 - *2024.10* Chen Tianzhou Scholarship (陈天洲奖学金). 
 - *2024.08* KnowledgeNLP@ACL 2024 Best Paper Award.
 - *2023.12* National Scholarship for Graduate Students (研究生国家奖学金). 
