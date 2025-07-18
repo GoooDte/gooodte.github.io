@@ -23,7 +23,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
-- *2025.07* I have been successfully selected for the 2025 CIE-Tencent Doctoral Research Incentive Program. Thanks for the support from CIE and Tencent!
+- *2025.07* I have been successfully selected for the 2025 CIE-Tencent Doctoral Research Incentive Program (中国电子学会-腾讯博士生科研激励计划). Thanks for the support from CIE and Tencent!
 - *2025.06* I will be conducting a one-year academic visit to Professor [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)'s research group at University College London in the UK this September!
 - *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore!
