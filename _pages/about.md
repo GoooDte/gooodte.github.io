@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL AI Center](https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence) supervised by [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Model, AI Agents, and their applications.
+I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL AI Center](https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence) supervised by [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications.
 
 
 
@@ -38,7 +38,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 **Shuofei Qiao**, Yanqiu Zhao, Zhisong Qiu, Xiaobin Wang, Jintian Zhang, Zhao Bin, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
 
-[**Project Page**](https://github.com/zjunlp/KnowSelf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://github.com/zjunlp/DataMind) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A scalable data synthesis and agent training recipe designed to build generalist data-analytic agents.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/DataMind)](https://github.com/zjunlp/DataMind) 🌟
