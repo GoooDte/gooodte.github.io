@@ -19,12 +19,12 @@ redirect_from:
 
 I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL AI Center](https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications.
 
+**My research is supported by the CIE-Tencent Doctoral Research Incentive Program (中国电子学会-腾讯博士生科研激励计划). Many thanks!**
+
 
 
 
 # 🔥 News
-- *2025.07* I have been successfully selected for the 2025 CIE-Tencent Doctoral Research Incentive Program (中国电子学会-腾讯博士生科研激励计划). Thanks for the support from CIE and Tencent!
-- *2025.06* I will be conducting a one-year academic visit to Professor [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)'s research group at University College London in the UK this September!
 - *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore!
 - *2024.12*: Our survey paper on [MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) has been released!
@@ -132,9 +132,15 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 </div>
 </div>
 
+- `arXiv 2025` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
+- `arXiv 2025` [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536). Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, **Shuofei Qiao**, Mengru Wang, Shumin Deng, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
+- `arXiv 2025` [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106). Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, **Shuofei Qiao**, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
+- `arXiv 2025` [KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](https://arxiv.org/abs/2506.19807). Baochang Ren, **Shuofei Qiao**, Da Zheng, Huajun Chen, Ningyu Zhang.
+- `AAAI 2026` [Why do open-source llms struggle with data analysis? a systematic empirical study](https://arxiv.org/abs/2506.19794). Yuqi Zhu, Yi Zhong, Jintian Zhang, Ziheng Zhang, **Shuofei Qiao**, Yujie Luo, Lun Du, Da Zheng, Ningyu Zhang, Huajun Chen. **Oral.**
+- `EMNLP 2025` [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589). Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, **Shuofei Qiao**, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang. **Oral.**
 - `ACL 2025` [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement](https://arxiv.org/abs/2504.03561). Runnan Fang, Xiaobin Wang, Yuan Liang, **Shuofei Qiao**, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.
 - `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
-- `KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **Best Paper Award.**
+- `NAACL 2024 findings/KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **KnowledgeNLP@ACL 2024 Best Paper Award.**
 - `ISWC 2024` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
 - `IJCAI 2023` [One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER](https://arxiv.org/abs/2301.10410). Xiang Chen, Lei Li, **Shuofei Qiao**, Ningyu Zhang, Chuanqi Tan, Yong Jiang, Fei Huang, Huajun Chen.
 - `WWWJ` [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168). Yuqi Zhu, Xiaohan Wang, Jing Chen, **Shuofei Qiao**, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.
@@ -146,10 +152,12 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # 🎖 Honors and Awards
 
+- *2025.12* National Scholarship for Doctoral Students (博士研究生国家奖学金).
 - *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划)
+- 2025.04 ICLR 2025 Scholar Reward.
 - *2024.10* Chen Tianzhou Scholarship (陈天洲奖学金). 
 - *2024.08* KnowledgeNLP@ACL 2024 Best Paper Award.
-- *2023.12* National Scholarship for Graduate Students (研究生国家奖学金). 
+- *2023.12* National Scholarship for Master Students (硕士研究生国家奖学金). 
 - *2021.12* National Scholarship for Undergraduate Students (本科生国家奖学金).
 
 # 📖 Educations
@@ -158,12 +166,13 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - *2018.09 - 2022.06*, Undergraduate Student, Beihang University.
 
 # 💬 Invited Talks
+- *2025.08/2025.11*, How to do distinctive scientific research in the era of LLMs: Taking LLM Agent as an example. CCL2025 Student Seminar/MLNLP2025 Student Seminar.
 - *2025.06,* Knowledgeable Agents: Problems, Methods, and Applications. BAAI 7th Conference InnoVibe Lightning Talk.
 - *2024.11*, Knowledge-Augmented Large Language Model Agent Planning. SMP2024 PhD Seminar.
 - *2023.11*, From Chain-of-Thought to LLM Powered Autonomous Agents. MLNLP. [Slides](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf).
 
 # 💻 Internships
-- *2024.07 - present,* Alibaba Tongyi Lab (DAMO Academy), China.
+- *2024.07 - 2025.08,* Alibaba Cloud, Tongyi Lab (DAMO Academy), China.
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
 
 # ✍️ Academic Service
