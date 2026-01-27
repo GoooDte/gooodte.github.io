@@ -25,14 +25,14 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna!
-- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore!
-- *2024.12*: Our survey paper on [MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) has been released!
-- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2024.
+- *2026.01*: &nbsp;🎉🎉 Four papers has been accepted by ICLR 2026. See you in Rio de Janeiro, Brazil🇧🇷!
+- *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna, Austria🇦🇹!
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore🇸🇬!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/datamind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/datamind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Scaling Generalist Data-Analytic Agents](https://www.arxiv.org/abs/2509.25084)
 
@@ -129,21 +129,18 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 - TL;DR: A survey for language model reasoning with prompting.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/Prompt4ReasoningPapers)](https://github.com/zjunlp/Prompt4ReasoningPapers) 🌟
-</div>
-</div>
-
-- `arXiv 2025` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
+  </div>
+  </div>
+- `arXiv 2026` [Aligning Agentic World Models via Knowledgeable Experience Learning](https://arxiv.org/abs/2601.13247). Baochang Ren, Yunzhi Yao, Rui Sun, **Shuofei Qiao**, Ningyu Zhang, Huajun Chen.
+- `ICLR 2026` [InnoGym: Benchmarking the Innovation Potential of AI Agents](https://arxiv.org/abs/2512.01822). Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, **Shuofei Qiao**, Lun Du, Da Zheng, Shumin Deng, Huajun Chen, Ningyu Zhang.
+- `ICLR 2026` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
+- `ICLR 2026` [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106). Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, **Shuofei Qiao**, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
 - `arXiv 2025` [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536). Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, **Shuofei Qiao**, Mengru Wang, Shumin Deng, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
-- `arXiv 2025` [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106). Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, **Shuofei Qiao**, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
 - `arXiv 2025` [KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](https://arxiv.org/abs/2506.19807). Baochang Ren, **Shuofei Qiao**, Da Zheng, Huajun Chen, Ningyu Zhang.
 - `AAAI 2026` [Why do open-source llms struggle with data analysis? a systematic empirical study](https://arxiv.org/abs/2506.19794). Yuqi Zhu, Yi Zhong, Jintian Zhang, Ziheng Zhang, **Shuofei Qiao**, Yujie Luo, Lun Du, Da Zheng, Ningyu Zhang, Huajun Chen. **Oral.**
 - `EMNLP 2025` [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589). Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, **Shuofei Qiao**, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang. **Oral.**
 - `ACL 2025` [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement](https://arxiv.org/abs/2504.03561). Runnan Fang, Xiaobin Wang, Yuan Liang, **Shuofei Qiao**, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.
-- `EMNLP 2024 findings` [Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017). Mengru Wang, Yunzhi Yao, Ziwen Xu, **Shuofei Qiao**, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang.
 - `NAACL 2024 findings/KnowledgeNLP@ACL 2024` [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101). Yuqi Zhu, **Shuofei Qiao**, Yixin Ou, Shumin Deng, Ningyu Zhang, Shiwei Lyu, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. **KnowledgeNLP@ACL 2024 Best Paper Award.**
-- `ISWC 2024` [InstructIE: A Bilingual Instruction-based Information Extraction Dataset](https://arxiv.org/abs/2305.11527). Honghao Gui, **Shuofei Qiao**, Jintian Zhang, Hongbin Ye, Mengshu Sun, Lei Liang, Jeff Z. Pan, Huajun Chen, Ningyu Zhang.
-- `IJCAI 2023` [One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER](https://arxiv.org/abs/2301.10410). Xiang Chen, Lei Li, **Shuofei Qiao**, Ningyu Zhang, Chuanqi Tan, Yong Jiang, Fei Huang, Huajun Chen.
-- `WWWJ` [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168). Yuqi Zhu, Xiaohan Wang, Jing Chen, **Shuofei Qiao**, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang.
 
 # 🔧Projects
 
@@ -152,8 +149,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # 🎖 Honors and Awards
 
+- *2025.12* Young Talent Support Program for Doctoral Students, CAST (中国科协青年人才托举工程博士生专项计划).
 - *2025.12* National Scholarship for Doctoral Students (博士研究生国家奖学金).
-- *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划)
+- *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划).
 - 2025.04 ICLR 2025 Scholar Reward.
 - *2024.10* Chen Tianzhou Scholarship (陈天洲奖学金). 
 - *2024.08* KnowledgeNLP@ACL 2024 Best Paper Award.
