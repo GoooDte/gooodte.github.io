@@ -129,8 +129,9 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 - TL;DR: A survey for language model reasoning with prompting.
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/Prompt4ReasoningPapers)](https://github.com/zjunlp/Prompt4ReasoningPapers) 🌟
-  </div>
-  </div>
+</div>
+</div>
+
 - `arXiv 2026` [Aligning Agentic World Models via Knowledgeable Experience Learning](https://arxiv.org/abs/2601.13247). Baochang Ren, Yunzhi Yao, Rui Sun, **Shuofei Qiao**, Ningyu Zhang, Huajun Chen.
 - `ICLR 2026` [InnoGym: Benchmarking the Innovation Potential of AI Agents](https://arxiv.org/abs/2512.01822). Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, **Shuofei Qiao**, Lun Du, Da Zheng, Shumin Deng, Huajun Chen, Ningyu Zhang.
 - `ICLR 2026` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
