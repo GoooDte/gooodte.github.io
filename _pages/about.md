@@ -30,11 +30,26 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore🇸🇬!
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
+
+**Shuofei Qiao**, Yunxiang Wei, Xuehai Wang, Bin Wu, Boyang Xue, Ningyu Zhang, Hossein A. Rahmani, Yanshan Wang, Qiang Zhang, Keyan Ding, Jeff Z. Pan, Huajun Chen, Emine Yilmaz
+
+[**Project Page**](https://github.com/zjunlp/InnoEval) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- TL;DR: A deep innovation evaluation framework designed to emulate human expert-level idea assessment.
+- Github Stars: [![](https://img.shields.io/github/stars/zjunlp/InnoEval)](https://github.com/zjunlp/InnoEval) 🌟
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/datamind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[Scaling Generalist Data-Analytic Agents](https://www.arxiv.org/abs/2509.25084)
+[Scaling Generalist Data-Analytic Agents](https://arxiv.org/abs/2509.25084)
 
 **Shuofei Qiao**, Yanqiu Zhao, Zhisong Qiu, Xiaobin Wang, Jintian Zhang, Zhao Bin, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
 
