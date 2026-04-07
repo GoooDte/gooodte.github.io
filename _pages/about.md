@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL NLP](https://nlp.cs.ucl.ac.uk/) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications.
+I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL NLP](https://nlp.cs.ucl.ac.uk/) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications. I'm always open to any kinds of collaborations. Feel free to reach out if you are interested in my research.
 
 **My research is supported by the CIE-Tencent Doctoral Research Incentive Program (中国电子学会-腾讯博士生科研激励计划). Many thanks!**
 
-
+📌 **I'm on the job market now and expect to graduate in June 2027. Please feel free to contact me if you have suitable openings!**
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Four papers has been accepted by ICLR 2026. See you in Rio de Janeiro, Brazil🇧🇷!
-- *2025.05*: &nbsp;🎉🎉 Four papers has been accepted by ACL 2025. See you in Vienna, Austria🇦🇹!
+- *2026.04*: &nbsp;🎉🎉 Three papers have been accepted by ACL 2026.
+- *2026.01*: &nbsp;🎉🎉 Four papers have been accepted by ICLR 2026. See you in Rio de Janeiro, Brazil🇧🇷!
+- *2025.05*: &nbsp;🎉🎉 Four papers have been accepted by ACL 2025. See you in Vienna, Austria🇦🇹!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore🇸🇬!
 
 # 📝 Publications
@@ -152,7 +153,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - `ICLR 2026` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
 - `ICLR 2026` [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106). Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, **Shuofei Qiao**, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
 - `arXiv 2025` [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536). Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, **Shuofei Qiao**, Mengru Wang, Shumin Deng, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
-- `arXiv 2025` [KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](https://arxiv.org/abs/2506.19807). Baochang Ren, **Shuofei Qiao**, Da Zheng, Huajun Chen, Ningyu Zhang.
+- `ACL 2026` [KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](https://arxiv.org/abs/2506.19807). Baochang Ren, **Shuofei Qiao**, Da Zheng, Huajun Chen, Ningyu Zhang.
 - `AAAI 2026` [Why do open-source llms struggle with data analysis? a systematic empirical study](https://arxiv.org/abs/2506.19794). Yuqi Zhu, Yi Zhong, Jintian Zhang, Ziheng Zhang, **Shuofei Qiao**, Yujie Luo, Lun Du, Da Zheng, Ningyu Zhang, Huajun Chen. **Oral.**
 - `EMNLP 2025` [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589). Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, **Shuofei Qiao**, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang. **Oral.**
 - `ACL 2025` [SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement](https://arxiv.org/abs/2504.03561). Runnan Fang, Xiaobin Wang, Yuan Liang, **Shuofei Qiao**, Jialong Wu, Zekun Xi, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen.
@@ -176,6 +177,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # 📖 Educations
 - *2024.02 - 2027.06*, PhD Student, Zhejiang University.
+- *2025.09 - 2026.08*, Visiting Researcher, University College London.
 - *2022.09 - 2024.02*, Master Student, Zhejiang University.
 - *2018.09 - 2022.06*, Undergraduate Student, Beihang University.
 
@@ -190,7 +192,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
 
 # ✍️ Academic Service
-- Conference Reviewer: ICLR, NeurIPS, ACL ARR, ACMMM.
+- Conference Reviewer: ICLR, NeurIPS, ICML, ACL ARR, ACM MM.
 - Conference Volunteer: ISWC 2023, ACL 2025.
 
 <a href="https://info.flagcounter.com/UsPL"><img src="https://s01.flagcounter.com/count/UsPL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
