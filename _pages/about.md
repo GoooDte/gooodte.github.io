@@ -25,14 +25,16 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 
 # 🔥 News
+- *2026.05:* &nbsp;🎉🎉 One paper has been accepted by ICML 2026. See you in Seoul, South Korea🇰🇷!
 - *2026.04*: &nbsp;🎉🎉 Three papers have been accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Four papers have been accepted by ICLR 2026. See you in Rio de Janeiro, Brazil🇧🇷!
 - *2025.05*: &nbsp;🎉🎉 Four papers have been accepted by ACL 2025. See you in Vienna, Austria🇦🇹!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore🇸🇬!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
