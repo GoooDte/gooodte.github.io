@@ -31,11 +31,42 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 - *2025.05*: &nbsp;🎉🎉 Four papers have been accepted by ACL 2025. See you in Vienna, Austria🇦🇹!
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. See you in Singapore🇸🇬!
 
-# 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
+
+
+**† Corresponding Author**
+
+# 📝 Technical Reports
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/sciatlas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](https://arxiv.org/abs/2605.22878)
 
+**Shuofei Qiao**, Yunxiang Wei, Jiazheng Fan, Bin Wu, Busheng Zhang, Mengru Wang, Yuqi Zhu, Ningyu Zhang, Keyan Ding, Qiang Zhang, Huajun Chen
+
+[**Project Page**](https://github.com/zjunlp/SciAtlas) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- TL;DR: A large-Scale, multi-discipline knowledge graph as the foundation for automated scientific research.
+- Github Stars: [![](https://img.shields.io/github/stars/zjunlp/SciAtlas)](https://github.com/zjunlp/SciAtlas) 🌟
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/labvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](https://arxiv.org/abs/2606.13578)
+
+Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, Jintao Xing, Zirui Xue, Rui Li, Xiangyu Zhao, **Shuofei Qiao†**, Minting Pan, Wangmeng Zuo, Lei Bai, Dongzhan Zhou, Ningyu Zhang, Huajun Chen
+
+[**Project Page**](https://zjunlp.github.io/LabVLA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- TL;DR: A VLA pipeline for connecting written laboratory protocols to embodied robot execution in simulated scientific workspaces.
+- Github Stars: [![](https://img.shields.io/github/stars/zjunlp/LabVLA)](https://github.com/zjunlp/LabVLA) 🌟
+</div>
+</div>
+
+# 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
 
@@ -150,6 +181,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 </div>
 </div>
 
+- `KDD 2026` [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198). Zhisong Qiu, **Shuofei Qiao**, Kewei Xu, Yuqi Zhu, Lun Du, Ningyu Zhang, Huajun Chen.
 - `arXiv 2026` [Aligning Agentic World Models via Knowledgeable Experience Learning](https://arxiv.org/abs/2601.13247). Baochang Ren, Yunzhi Yao, Rui Sun, **Shuofei Qiao**, Ningyu Zhang, Huajun Chen.
 - `ICLR 2026` [InnoGym: Benchmarking the Innovation Potential of AI Agents](https://arxiv.org/abs/2512.01822). Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, **Shuofei Qiao**, Lun Du, Da Zheng, Shumin Deng, Huajun Chen, Ningyu Zhang.
 - `ICLR 2026` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
@@ -168,6 +200,7 @@ I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang Un
 
 # 🎖 Honors and Awards
 
+- *2026.02* Zhejiang Provincial Outstanding Innovation Achievement Award (浙江省专业学位研究生优秀创新成果).
 - *2025.12* Young Talent Support Program for Doctoral Students, CAST (中国科协青年人才托举工程博士生专项计划).
 - *2025.12* National Scholarship for Doctoral Students (博士研究生国家奖学金).
 - *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划).
