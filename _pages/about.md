@@ -63,10 +63,6 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/LabVLA)](https://github.com/zjunlp/LabVLA) 🌟
 
-  </div>
-  </div>
-
-
 
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
