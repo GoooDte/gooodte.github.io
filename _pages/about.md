@@ -60,9 +60,10 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 [**Project Page**](https://zjunlp.github.io/LabVLA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - TL;DR: A VLA pipeline for connecting written laboratory protocols to embodied robot execution in simulated scientific workspaces.
+
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/LabVLA)](https://github.com/zjunlp/LabVLA) 🌟
 
-
+  
 
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/innoeval.png' alt="sym" width="100%"></div></div>
