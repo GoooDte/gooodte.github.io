@@ -62,6 +62,8 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 - TL;DR: A VLA pipeline for connecting written laboratory protocols to embodied robot execution in simulated scientific workspaces.
 
 - Github Stars: [![](https://img.shields.io/github/stars/zjunlp/LabVLA)](https://github.com/zjunlp/LabVLA) 🌟
+</div>
+</div>
 
 
 # 📝 Selected Publications
