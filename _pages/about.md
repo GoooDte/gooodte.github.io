@@ -19,8 +19,6 @@ redirect_from:
 
 I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL NLP](https://nlp.cs.ucl.ac.uk/) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications. I'm always open to any kinds of collaborations. Feel free to reach out if you are interested in my research.
 
-**My research is supported by the CIE-Tencent Doctoral Research Incentive Program (中国电子学会-腾讯博士生科研激励计划). Many thanks!**
-
 📌 **I'm on the job market now and expect to graduate in June 2027. Please feel free to contact me if you have suitable openings!**
 
 
@@ -197,11 +195,13 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 
 # 🔧Projects
 
+- `arxiv 2026` [SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](https://arxiv.org/abs/2605.22878). Github Stars: [![](https://img.shields.io/github/stars/zjunlp/SciAtlas)](https://github.com/zjunlp/SciAtlas) 🌟
 - ``EMNLP 2022 Demo`` [DeepKE: A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population](https://arxiv.org/abs/2201.03335). Github Stars: [![](https://img.shields.io/github/stars/zjunlp/DeepKE)](https://github.com/zjunlp/DeepKE) 🌟
 - ``ACL 2024 Demo`` [EasyInstruct: An Easy-to-use Instruction Processing Framework for Large Language Models](https://arxiv.org/abs/2402.03049). Github Stars: [![](https://img.shields.io/github/stars/zjunlp/EasyInstruct)](https://github.com/zjunlp/EasyInstruct) 🌟
 
 # 🎖 Honors and Awards
 
+- *2026.07* Tencent Project Up Student Travel Grant — ICML (2026腾讯青云Student Travel Grant — ICML).
 - *2026.02* Zhejiang Provincial Outstanding Innovation Achievement Award (浙江省专业学位研究生优秀创新成果).
 - *2025.12* Young Talent Support Program for Doctoral Students, CAST (中国科协青年人才托举工程博士生专项计划).
 - *2025.12* National Scholarship for Doctoral Students (博士研究生国家奖学金).
@@ -210,13 +210,11 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 - *2024.10* Chen Tianzhou Scholarship (陈天洲奖学金). 
 - *2024.08* KnowledgeNLP@ACL 2024 Best Paper Award.
 - *2023.12* National Scholarship for Master Students (硕士研究生国家奖学金). 
-- *2021.12* National Scholarship for Undergraduate Students (本科生国家奖学金).
 
 # 📖 Educations
 - *2024.02 - 2027.06*, PhD Student, Zhejiang University.
 - *2025.09 - 2026.08*, Visiting Researcher, University College London.
 - *2022.09 - 2024.02*, Master Student, Zhejiang University.
-- *2018.09 - 2022.06*, Undergraduate Student, Beihang University.
 
 # 💬 Invited Talks
 - *2025.08/2025.11*, How to do distinctive scientific research in the era of LLMs: Taking LLM Agent as an example. CCL2025 Student Seminar/MLNLP2025 Student Seminar.
@@ -225,11 +223,13 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 - *2023.11*, From Chain-of-Thought to LLM Powered Autonomous Agents. MLNLP. [Slides](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf).
 
 # 💻 Internships
-- *2024.07 - 2025.08,* Alibaba Cloud, Tongyi Lab (DAMO Academy), China.
+- *2024.07 - 2025.08,* Alibaba Cloud, Tongyi Lab, China.
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
 
 # ✍️ Academic Service
-- Conference Reviewer: ICLR, NeurIPS, ICML, ACL ARR, ACM MM.
+- Area Chair: ACL ARR.
+- Conference Reviewer: ICLR, NeurIPS, ICML, ACL ARR, AAAI.
+- Journal Reviewer: TMLR, TOIS.
 - Conference Volunteer: ISWC 2023, ACL 2025.
 
 <a href="https://info.flagcounter.com/UsPL"><img src="https://s01.flagcounter.com/count/UsPL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
