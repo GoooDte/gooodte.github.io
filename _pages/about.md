@@ -202,10 +202,10 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 # 🎖 Honors and Awards
 
 - *2026.07* Tencent Project Up Student Travel Grant — ICML (2026腾讯青云Student Travel Grant — ICML).
-- *2026.02* Zhejiang Provincial Outstanding Innovation Achievement Award (浙江省专业学位研究生优秀创新成果).
+- *2026.02* Zhejiang Provincial Outstanding Innovation Achievement Award (浙江省研究生优秀创新成果).
 - *2025.12* Young Talent Support Program for Doctoral Students, CAST (中国科协青年人才托举工程博士生专项计划).
 - *2025.12* National Scholarship for Doctoral Students (博士研究生国家奖学金).
-- *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program (2025年度中国电子学会-腾讯博士生科研激励计划).
+- *2025.07* 2025 CIE-Tencent Doctoral Research Incentive Program, Hunyuan Scholar (2025年度中国电子学会-腾讯博士生科研激励计划, 混元学者).
 - 2025.04 ICLR 2025 Scholar Reward.
 - *2024.10* Chen Tianzhou Scholarship (陈天洲奖学金). 
 - *2024.08* KnowledgeNLP@ACL 2024 Best Paper Award.
@@ -227,9 +227,11 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
 
 # ✍️ Academic Service
-- Area Chair: ACL ARR.
+- Area Chair/Senior PC: ACL ARR, AAAI.
 - Conference Reviewer: ICLR, NeurIPS, ICML, ACL ARR, AAAI.
 - Journal Reviewer: TMLR, TOIS.
 - Conference Volunteer: ISWC 2023, ACL 2025.
+- CIPS-YWC Student Member (中国中文信息学会青年工作委员会学生委员).
+- Core member of [MLNLP](https://mlnlpworld.com/) and [NICE](https://nice-intl.github.io/) Community.
 
 <a href="https://info.flagcounter.com/UsPL"><img src="https://s01.flagcounter.com/count/UsPL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
