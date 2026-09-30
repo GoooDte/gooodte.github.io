@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). Currently, I am a visiting researcher at [UCL NLP](https://nlp.cs.ucl.ac.uk/) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). I used to intern at Alibaba Tongyi Lab [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). Now, my research interests focus on Large Language Models, AI Agents, and their applications. I'm always open to any kinds of collaborations. Feel free to reach out if you are interested in my research.
+I am a PhD student in [ZJUNLP](https://zjunlp.github.io/) group from Zhejiang University, advised by Prof. [Huajun Chen](https://person.zju.edu.cn/en/huajun) and Prof. [Ningyu Zhang](https://person.zju.edu.cn/en/ningyu). During my undergraduate studies, I interned at [BDBC](http://bdbc.buaa.edu.cn/?lang=zh) in Beihang University, supervised by Prof. [Richong Zhang](http://act.buaa.edu.cn/zhangrc). I spent one-year valuable time as a visiting researcher at [UCL NLP](https://nlp.cs.ucl.ac.uk/) supervised by Prof. [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/). Currently, I am interning at Tencent Hunyuan LLM Department Agent Team. Now, my research interests focus on Large Language Models, AI Agents, and their applications. I'm always open to any kinds of collaborations. Feel free to reach out if you are interested in my research.
 
 📌 **I'm on the job market now and expect to graduate in June 2027. Please feel free to contact me if you have suitable openings!**
 
 
 # 🔥 News
+- *2026.09:* &nbsp;🎉🎉 Four papers have been accepted by EMNLP 2026.
 - *2026.05:* &nbsp;🎉🎉 One paper has been accepted by ICML 2026. See you in Seoul, South Korea🇰🇷!
 - *2026.04*: &nbsp;🎉🎉 Three papers have been accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 Four papers have been accepted by ICLR 2026. See you in Rio de Janeiro, Brazil🇧🇷!
@@ -182,11 +183,11 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 </div>
 
 - `KDD 2026` [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198). Zhisong Qiu, **Shuofei Qiao**, Kewei Xu, Yuqi Zhu, Lun Du, Ningyu Zhang, Huajun Chen.
-- `arXiv 2026` [Aligning Agentic World Models via Knowledgeable Experience Learning](https://arxiv.org/abs/2601.13247). Baochang Ren, Yunzhi Yao, Rui Sun, **Shuofei Qiao**, Ningyu Zhang, Huajun Chen.
+- `EMNLP 2026 findings` [Aligning Agentic World Models via Knowledgeable Experience Learning](https://arxiv.org/abs/2601.13247). Baochang Ren, Yunzhi Yao, Rui Sun, **Shuofei Qiao**, Ningyu Zhang, Huajun Chen.
 - `ICLR 2026` [InnoGym: Benchmarking the Innovation Potential of AI Agents](https://arxiv.org/abs/2512.01822). Jintian Zhang, Kewei Xu, Jingsheng Zheng, Zhuoyun Yu, Yuqi Zhu, Yujie Luo, Lanning Wei, **Shuofei Qiao**, Lun Du, Da Zheng, Shumin Deng, Huajun Chen, Ningyu Zhang.
 - `ICLR 2026` [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866). Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, **Shuofei Qiao**, Huajun Chen, Ningyu Zhang.
 - `ICLR 2026` [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106). Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, **Shuofei Qiao**, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
-- `arXiv 2025` [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536). Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, **Shuofei Qiao**, Mengru Wang, Shumin Deng, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
+- `EMNLP 2026` [OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536). Yida Xue, Mingjun Mao, Xiangyuan Ru, Yuqi Zhu, Baochang Ren, **Shuofei Qiao**, Mengru Wang, Shumin Deng, Xinyu An, Ningyu Zhang, Ying Chen, Huajun Chen.
 - `ACL 2026` [KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](https://arxiv.org/abs/2506.19807). Baochang Ren, **Shuofei Qiao**, Da Zheng, Huajun Chen, Ningyu Zhang.
 - `AAAI 2026` [Why do open-source llms struggle with data analysis? a systematic empirical study](https://arxiv.org/abs/2506.19794). Yuqi Zhu, Yi Zhong, Jintian Zhang, Ziheng Zhang, **Shuofei Qiao**, Yujie Luo, Lun Du, Da Zheng, Ningyu Zhang, Huajun Chen. **Oral.**
 - `EMNLP 2025` [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589). Jintian Zhang, Yuqi Zhu, Mengshu Sun, Yujie Luo, **Shuofei Qiao**, Lun Du, Da Zheng, Huajun Chen, Ningyu Zhang. **Oral.**
@@ -223,7 +224,8 @@ Baochang Ren, Xinjie Liu, Xi Chen, Yanshuo Liu, Chenxi Li, Daqi Gao, Zeqin Su, J
 - *2023.11*, From Chain-of-Thought to LLM Powered Autonomous Agents. MLNLP. [Slides](https://github.com/zjunlp/Prompt4ReasoningPapers/blob/main/tutorial.pdf).
 
 # 💻 Internships
-- *2024.07 - 2025.08,* Alibaba Cloud, Tongyi Lab, China.
+- *2026.09 - Now*, Tencent Hunyuan, LLM Department, Agent Team, China.
+- *2024.07 - 2025.08,* Alibaba Cloud, Tongyi Lab, China. [DeepResearch Team](https://tongyi-agent.github.io/about/), mentored by [Yong Jiang](https://jiangyong.site/) and [Fei Huang](https://sites.google.com/view/fei-huang).
 - *2023.07 - 2024.07*, Alibaba TaoTian Group, China.
 
 # ✍️ Academic Service
